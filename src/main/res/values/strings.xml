@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ItunesForAndroid</string>
+    <string name="content_authority">com.example.preethibhaskar.itunesforandroid</string>
+    <string name="no_internet_connection">We could not detect any internet connection.Please try again.</string>
+    <string name="could_not_reach_server">We could not reach server . Please try again.</string>
+</resources>
